@@ -5,9 +5,9 @@
 
 #### **Objetivos e etapas:**
 
-* Parte I: Pŕe-processamento, feature extraction e aplicação de um modelo de classificação para prever se uma review do IMDB dataset será positiva ou negativa
+* Parte I: Pré-processamento, feature extraction e aplicação de um modelo de classificação para prever se uma review do IMDB dataset será positiva ou negativa
 
-* Parte II: Aplicação de uma análise de sentimento com Vader
+* Parte II: Aplicação de uma análise de sentimentos com Vader
 
 * Parte III: Aplicação de Word Vectors
 
